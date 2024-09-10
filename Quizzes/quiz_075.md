@@ -1,6 +1,6 @@
 ## Paper work
 
-![IMG_0174 2](https://github.com/user-attachments/assets/55e087c3-48b8-4fcb-b06e-3658b6d27600)
+![197](https://github.com/user-attachments/assets/64605790-8d03-45ed-a0fc-e7ef7356d562)
 
 
 ## Code
