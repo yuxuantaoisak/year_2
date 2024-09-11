@@ -24,6 +24,7 @@ def error_detector(msg):
 print(error_detector("101110110"))
 print(error_detector("011101111101110111110111001111"))
 
+
 ```
 
 ## Proof of work
