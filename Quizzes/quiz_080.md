@@ -24,3 +24,4 @@ print(function([3, 1, 8, 7]))
 ## Proof of work
 
 ![Screenshot 2024-09-10 at 23 28 46](https://github.com/user-attachments/assets/fc67831e-fc59-45b4-8c08-46a98c8f05b2)
+
