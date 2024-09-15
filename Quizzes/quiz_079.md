@@ -40,6 +40,7 @@ testing_1 = '1011'
 testing_2 = '1111'
 print(hamming(testing_1))
 print(hamming(testing_2))
+
 ```
 
 ## Proof of work
