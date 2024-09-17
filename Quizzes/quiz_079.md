@@ -2,6 +2,7 @@
 
 ![206](https://github.com/user-attachments/assets/28df28ea-dd4d-491c-b04f-174bb3988f85)
 
+
 ## Code
 
 ```.py
