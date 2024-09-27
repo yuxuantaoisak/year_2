@@ -29,5 +29,6 @@ print(merge_sort([10, 5, 1, 9]))
 ```
 
 
-
 ## Proof of work
+
+<img width="995" alt="Screenshot 2024-09-27 at 14 53 02" src="https://github.com/user-attachments/assets/8f7d1a17-66ba-4af2-9412-2a92ed121d66">
